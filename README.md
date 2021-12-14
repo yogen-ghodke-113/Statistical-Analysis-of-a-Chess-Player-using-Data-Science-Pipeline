@@ -83,9 +83,9 @@ Chess is a game with infinite possibilities and every game played produces large
   </p> 
 <br>
 
-## Types of Analysis available :
+## The following are the different Types of Analysis available :
 
-### Frequency Countplot of the user's top 20 different openings played as White :
+### Frequency Countplot of the user's top 20 different openings played as White
 
 <br> <p align="center">
   <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
@@ -109,7 +109,7 @@ Chess is a game with infinite possibilities and every game played produces large
   </a>
   </p> <br>
   
-### HeatMaps of Starting and Landing Squares as White
+### HeatMaps of Starting Squares as White
 
 <br><p align="center">
   <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
@@ -117,17 +117,105 @@ Chess is a game with infinite possibilities and every game played produces large
   </a>
   </p> <br>
   
+### HeatMaps of Landing Squares as White
+  
  <br><p align="center">
   <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
     <img src="/tyrange/heatmap_landing.png">
   </a>
   </p> <br>
 
-### Correlation Heatmap of the Features in the Dataset
+### Correlation Heatmap of all the features of the downloaded dataset. 
 
+Higher number means higher correlation.
 
+  
+ <br><p align="center">
+  <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
+    <img src="/tyrange/corr_heatmap.png">
+  </a>
+  </p> <br>
+  
+### Player's Elo Rating in the last 150 Rated Games
 
+  
+ <br><p align="center">
+  <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
+    <img src="/tyrange/rating_ladder_red.png">
+  </a>
+  </p> <br>
+  
+### Types of different Time Class Control Games played. 
 
+Different Classes of time control are blitz, bullet, classical, puzzle, chess960 and rapid.
+
+<br><p align="center">
+  <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
+    <img src="/tyrange/time_class.png">
+  </a>
+  </p> <br>
+  
+### How much of a fight the user puts up when losing.
+ 
+These are all the games where the user lost. More number of moves in the games means the user put up a good fight before resigning. Less number of moves indicate that the player blundered early on in the game.
+
+<br><p align="center">
+  <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
+    <img src="/tyrange/fight.png">
+  </a>
+  </p> <br>
+  
+### A Frequency plot of the result of all the games, the user has played on the website.
+
+<br><p align="center">
+  <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
+    <img src="/tyrange/overall_results.png">
+  </a>
+  </p> <br>
+  
+### A pie chart of the result of all the games, the user has played on the website.
+
+<br><p align="center">
+  <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
+    <img src="/tyrange/result_pi.png">
+  </a>
+  </p> <br>
+  
+### Donut Chart of percentage Wins, Losses and Draws as White
+
+<br><p align="center">
+  <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
+    <img src="/tyrange/result_as_wh.png">
+  </a>
+  </p> <br>
+  
+### Donut Chart of percentage Wins, Losses and Draws as Black
+<br><p align="center">
+  <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
+    <img src="/tyrange/result_as_bl.png">
+  </a>
+  </p> <br>
+  
+  
+### Strength and Weakness Analysis
+
+These graphs are very important for Strength / Weakness Analysis. Longer Red bar indicates the opening played by the user the most, but also lost the most. Longest green bar indicates the strongest most played opening.
+  
+### Top 5 Strengths / Weaknesses as White :
+
+<br><p align="center">
+  <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
+    <img src="/tyrange/result_top_5_wh.png">
+  </a>
+  </p> <br>
+
+### Top 5 Strengths / Weaknesses as Black :
+
+<br><p align="center">
+  <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
+    <img src="/tyrange/result_top_5_bl.png">
+  </a>
+  </p> <br><br>
 	
 
 
@@ -145,6 +233,6 @@ The following libraries and frameworks were used in the making of this Project.
 * [Python Chess Library](https://python-chess.readthedocs.io/en/latest/pgn.html)
 * [Scikit Learn](https://scikit-learn.org/)
 * [Python Mord](https://pypi.org/project/mord/)
-* 
+
 
 
