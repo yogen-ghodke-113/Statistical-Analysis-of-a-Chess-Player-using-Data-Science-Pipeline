@@ -50,7 +50,7 @@ Chess is a game with infinite possibilities and every game played produces large
   
 <br><p align="center">
   <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
-    <img src="/readme_files/strengthsweaknesses.png">
+    <img src="/readme_files/strengthsweakness.png">
   </a>
   </p> <br>
   
@@ -85,29 +85,50 @@ Chess is a game with infinite possibilities and every game played produces large
 
 ## Types of Analysis available :
 
-1. Frequency Countplot of the different openings played as White :
+### Frequency Countplot of the user's top 20 different openings played as White :
 
 <br> <p align="center">
-  <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
-    <img src="/tyrange/about.png">
-  </a>
-  </p> <br>
-  
-2. Frequency Countplot of the different defences played as Black :
-
- <br><p align="center">
   <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
     <img src="/tyrange/top_op_wh.png">
   </a>
   </p> <br>
+  
+### Frequency Countplot of the user's top 20 most played defences played as Black in response to white's first move.
 
-The keyword "Mark" was provided as a search term and that yielded the following results : 
+ <br><p align="center">
+  <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
+    <img src="/tyrange/top_op_bl.png">
+  </a>
+  </p> <br>
+
+### Top Opening Move as White
 
 <br><p align="center">
-  <a href="https://github.com/yogen-ghodke-113/Using-Face-Detection-and-OCR-for-help-in-Crime-Investigation">
-    <img src="tyrange/top_op_bl.png">
+  <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
+    <img src="/tyrange/top_opening_move_as_white_1.png">
   </a>
-  </p><br>
+  </p> <br>
+  
+### HeatMaps of Starting and Landing Squares as White
+
+<br><p align="center">
+  <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
+    <img src="/tyrange/heatmap_starting.png">
+  </a>
+  </p> <br>
+  
+ <br><p align="center">
+  <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
+    <img src="/tyrange/heatmap_landing.png">
+  </a>
+  </p> <br>
+
+### Correlation Heatmap of the Features in the Dataset
+
+
+
+
+	
 
 
 ### Built With
