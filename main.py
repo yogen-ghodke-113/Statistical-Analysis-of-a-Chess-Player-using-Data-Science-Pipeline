@@ -596,15 +596,15 @@ Title.grid(padx=20, pady=20, row=1, column=4, columnspan=1, sticky="nsew")
 Label(tit_frame5, text="\nThis software was written by :\n", font=("Arial", 18, "underline")).grid(row=2, column=4,
                                                                                                    columnspan=1)
 
-Label(tit_frame5, text="Mangesh Kauthale ,  Yogen Ghodke ,  Ajinkya Shewale", borderwidth=1, font=("Arial", 18, "bold"),
+Label(tit_frame5, text="Yogen Ghodke", borderwidth=1, font=("Arial", 18, "bold"),
       relief=GROOVE, pady=20, padx=20).grid(row=3, column=4, columnspan=1)
 
 Label(tit_frame5, text="\nSpecial Thanks to :", borderwidth=5, font=("Arial", 18, "underline")).grid(row=4, column=4,
                                                                                                      columnspan=1)
-Label(tit_frame5, text="\nProf. J.S. Mane,   Prof. S.S. Raskar", borderwidth=5, font=("Arial", 18, "bold")).grid(row=5,
+Label(tit_frame5, text="\nFreeCodeCamp,   Corey Schaffer", borderwidth=5, font=("Arial", 18, "bold")).grid(row=5,
                                                                                                                  column=4,
                                                                                                                  columnspan=1)
-Label(tit_frame5, text="\nMES College of Engineering, Pune", borderwidth=5, font=("Arial", 18, "bold")).grid(row=6,
+Label(tit_frame5, text="\n(YouTubers)", borderwidth=5, font=("Arial", 18, "bold")).grid(row=6,
                                                                                                              column=4,
                                                                                                              columnspan=1)
 
