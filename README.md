@@ -17,96 +17,97 @@ Chess is a game with infinite possibilities and every game played produces large
 ## Navigation
 
 * This is the screenshot of the Home Page of the App. On the top are the tabs which the user can click to access different context functions in the App.
-
+<br>
 <p align="center">
   <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
     <img src="/readme_files/home.png">
   </a>
   </p>
+ <br>
 
 
 * For a complete Data Analysis, you must go to User Input tab and enter your Chess.com username and click on Request Analysis. The application will take some time to retrieve your data through the Chess.com API.
 
-<p align="center">
+<br><p align="center">
   <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
     <img src="/readme_files/userinput.png">
   </a>
-  </p>
+  </p><br>
   
 * Once done, you will receive a dialog saying successful. Click on Ok and go to the Player Analysis Tab. Here you will see all the visualized data in detail.
 
-<p align="center">
+<br><p align="center">
   <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
     <img src="/readme_files/playeranalysis.png">
   </a>
-  </p>
+  </p><br>
   
-<p align="center">
+<br><p align="center">
   <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
     <img src="/readme_files/topmoves.png">
   </a>
-  </p> 
+  </p> <br>
   
-<p align="center">
+<br><p align="center">
   <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
     <img src="/readme_files/strengthsweaknesses.png">
   </a>
-  </p> 
+  </p> <br>
   
 * To predict what is the probability that one of the two players will win against the other, go to the game predictions tab. Here, enter you and your opponent's Chess.com username and click on the request analysis button. This will build a logistic regression model based on both the players' historical wins against opponents of different ELO ratings. Once done, you can scroll down to see the probability of winning and the accuracy of the model. Note that, more the games played on your Chess.com account, more will be the model's accuracy, as more data will be available for an accurate prediction.
 
-<p align="center">
+<br><p align="center">
   <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
     <img src="/readme_files/gameprediction.png">
   </a>
-  </p> 
+  </p> <br>
 
-<p align="center">
+<br><p align="center">
   <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
     <img src="/readme_files/regression.png">
   </a>
-  </p> 
+  </p> <br>
  
- <p align="center">
+ <br><p align="center">
   <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
     <img src="/readme_files/predictionresult.png">
   </a>
-  </p> 
+  </p> <br>
  
 * This is the about page giving credit to people who really helped me out with their tutorials.
 
- <p align="center">
+ <br><p align="center">
   <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
     <img src="/readme_files/about.png">
   </a>
   </p> 
-
+<br>
 
 ## Types of Analysis available :
 
 1. Frequency Countplot of the different openings played as White :
 
- <p align="center">
+<br> <p align="center">
   <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
     <img src="/tyrange/about.png">
   </a>
-  </p> 
+  </p> <br>
   
 2. Frequency Countplot of the different defences played as Black :
 
- <p align="center">
+ <br><p align="center">
   <a href="https://github.com/yogen-ghodke-113/Statistical-Analysis-of-a-Chess-Player-using-Data-Science-Pipeline">
     <img src="/tyrange/top_op_wh.png">
   </a>
-  </p> 
+  </p> <br>
 
 The keyword "Mark" was provided as a search term and that yielded the following results : 
 
-<p align="center">
+<br><p align="center">
   <a href="https://github.com/yogen-ghodke-113/Using-Face-Detection-and-OCR-for-help-in-Crime-Investigation">
     <img src="tyrange/top_op_bl.png">
   </a>
-  </p>
+  </p><br>
 
 
 ### Built With
